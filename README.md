@@ -23,3 +23,5 @@ model.fit(train_loader, test_loader, max_epoch)
 # Requirements
 
 To run this scheme, you need to install `numpy`, `pytorch`, and `tqdm`.
+
+You can find more details about the scheme in [Paper](https://ieeexplore.ieee.org/abstract/document/8643569)
